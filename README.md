@@ -1,2 +1,4 @@
+I'm on my way to becoming an iOS developer.
+
 # Project8
-A project from HackingWithSwift.com
+An example on Hacking with Swift: https://www.hackingwithswift.com/read/8/1/setting-up
